@@ -1,2 +1,237 @@
-<!--SIDDHESH'S EXTENDED PROFILEThis is a single-file, exactly 1,000-line customizable edition.Upload only this README.md; no assets directory or workflow is required.Animated images are remotely hosted, not embedded binary files.Keep the opening profile short; optional content is collapsed below.Learning prompts are suggestions, not completed work.Do not publish private contact details, credentials, or invented achievements.-->
-<p align="center">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=2800&amp;pause=900&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=100&amp;lines=Hi%2C+I%27m+Siddhesh+Krishnavel;CSE+Student+%7C+AI+Enthusiast;Learn.+Build.+Debug.+Repeat." width="100%" alt="Animated introduction: Siddhesh Krishnavel, CSE student and AI enthusiast." /></p><h1 align="center">Hi, I'm Siddhesh Krishnavel 👋</h1><h3 align="center">CSE Student · Aspiring Software Developer · AI Enthusiast</h3><p align="center">  <b>Always curious. Always learning. Always building.</b></p><p align="center">  <a href="#start">👤 Start</a> ·  <a href="#projects">🚀 Projects</a> ·  <a href="#paths">🌱 Learning Paths</a> ·  <a href="#arcade">🎮 Arcade</a> ·  <a href="#options">⚙️ Options</a> ·  <a href="#connect">🤝 Connect</a></p>> Building my foundations in software development while exploring what AI can do.<a id="start"></a>## 👤 Player OneI'm **Siddhesh**, a **Computer Science and Engineering** student at**Sri Sairam Institute of Technology**, expecting to graduate in **2027**.I learn through coding problems, project exploration, and developer tools.I'm interested in practical applications, backend development, artificialintelligence, and understanding how software works beneath the surface.| Profile | Details || :--- | :--- || Degree | B.E. Computer Science and Engineering || College | Sri Sairam Institute of Technology || Expected graduation | 2027 || Languages I practice | Python and Java || Exploring | Software development, AI, full-stack, and APIs || Career direction | Internships and entry-level software opportunities |<details><summary><b>💻 Open my terminal</b></summary>```textsiddhesh@dev:~$ whoamiSiddhesh Krishnavelsiddhesh@dev:~$ cat mindset.txtUnderstand the problem.Build a small solution.Test the assumptions.Improve the design.siddhesh@dev:~$ cat interests.txtSoftware developmentGenerative AILLMs and AI agentsBackend APIsData visualizationOpen-source collaboration```</details><details><summary><b>🧭 What I'm working toward</b></summary>- Stronger data structures and algorithms fundamentals.- Cleaner code and meaningful tests.- Practical applications beyond guided tutorials.- Better technical explanations.- Productive collaboration and feedback.- A portfolio that reflects work I can demonstrate.</details>## 🐍 Animated Arcade<p align="center">  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Decorative snake animation from the Platane/snk demo; not Siddhesh’s contribution data." /></p>**Animation credit:** Platane/snk public demo—not my contribution history.**Interests are not proficiency claims.** The sections below separatemy known learning context from optional exercises and project ideas.<a id="projects"></a>## 🚀 Project ExplorationThese project scopes have been discussed. Completed implementations,deployment status, and owned repository links are not yet confirmed.<details open><summary><b>💬 Astra Chat UI with Backend</b></summary>**Concept:** A conversational interface using an Azure AI orOpenAI-compatible endpoint.**Discussed technologies:** Python, Flask, HTML, CSS, JavaScript.**Learning goals**- Connect frontend interactions to backend requests.- Handle responses, errors, and loading states.- Explore conversation state.- Keep credentials out of frontend code and Git history.**Status:** Scope discussed; implementation unconfirmed.</details><details><summary><b>📅 EventEase API / Backend Capstone</b></summary>**Concept:** An event-related API involving business logic and persistence.**Potential focus**- API design and validation.- Backend business rules.- Data models and persistence.- Error handling and tests.**Status:** Scope and implementation details to be confirmed.</details><details><summary><b>📊 Intelligent LLM Agents for Databases</b></summary>**Concept:** Explore agents for natural-language database interactionand visualization.**Questions to investigate**- How should generated queries be checked?- How can access be restricted?- How should ambiguous questions be handled?- What makes a visualization appropriate?**Status:** Project / hackathon idea.</details><details><summary><b>🤟 Sign Language Recognition</b></summary>**Concept:** Explore recognition with a frontend, backend, anddefined development workflow.**Questions to investigate**- Which sign language and vocabulary would be in scope?- What dataset and permissions would be needed?- How should performance and limitations be evaluated?- How could users provide feedback?**Status:** Project idea; implementation unconfirmed.</details><details><summary><b>🧪 Exercise exposure—not an owned project</b></summary>A React, Spring Boot, and H2 patch exercise has been discussed.It is an external exercise context, not a claim that I independentlycreated that application or completed its fixes.</details><a id="paths"></a>## 🌱 Optional Learning Paths**How to read this section:** These are selectable practice prompts,not a completed curriculum or verified skills list.After trying a quest, I can add owned code, a test, and a limitation as evidence.Each path is collapsed to keep the main profile readable.I can keep the paths that fit my goals and remove the rest.<details><summary><b>🐍 Python Practice — choose a practice quest</b></summary>### Collections  **Mode:** Optional practice idea — not marked complete.  **Focus:** Explore lists, tuples, sets, and dictionaries.  **Try this:** Build a word-frequency counter.  **Review:** Empty input, punctuation, and repeated words.### Functions  **Mode:** Optional practice idea — not marked complete.  **Focus:** Practice clear inputs, outputs, and small responsibilities.  **Try this:** Split a text-processing task into functions.  **Review:** Unexpected inputs and return values.### Files  **Mode:** Optional practice idea — not marked complete.  **Focus:** Explore reading, writing, and structured text.  **Try this:** Create a local notes exporter.  **Review:** Missing files and malformed records.### Exceptions  **Mode:** Optional practice idea — not marked complete.  **Focus:** Practice reporting useful errors.  **Try this:** Add error handling to a small command-line tool.  **Review:** Avoid hiding unrelated errors.### Testing  **Mode:** Optional practice idea — not marked complete.  **Focus:** Explore small, repeatable test cases.  **Try this:** Test a utility function with boundary cases.  **Review:** Normal, empty, and invalid inputs.### References  **Mode:** Optional practice idea — not marked complete.  **Focus:** Investigate mutation, aliasing, and copying.  **Try this:** Compare shallow copies and independent nested values.  **Review:** Nested mutable objects.</details><details><summary><b>☕ Java Practice — choose a practice quest</b></summary>### Classes  **Mode:** Optional practice idea — not marked complete.  **Focus:** Practice modeling data and behavior.  **Try this:** Model a small library catalog.  **Review:** Responsibilities and encapsulation.### Collections  **Mode:** Optional practice idea — not marked complete.  **Focus:** Compare common collection choices.  **Try this:** Group records by category.  **Review:** Duplicates, ordering, and missing keys.### Exceptions  **Mode:** Optional practice idea — not marked complete.  **Focus:** Explore explicit failure handling.  **Try this:** Validate command-line input.  **Review:** Useful error messages.### Interfaces  **Mode:** Optional practice idea — not marked complete.  **Focus:** Practice separating contracts from implementations.  **Try this:** Define interchangeable output formatters.  **Review:** Avoid unnecessary abstraction.### Testing  **Mode:** Optional practice idea — not marked complete.  **Focus:** Explore automated checks for business rules.  **Try this:** Test a booking validation function.  **Review:** Boundary values and invalid states.### Refactoring  **Mode:** Optional practice idea — not marked complete.  **Focus:** Improve readability without changing behavior.  **Try this:** Simplify a long method into named operations.  **Review:** Preserve behavior with tests.</details><details><summary><b>🧩 Data Structures & Algorithms — choose a practice quest</b></summary>### Arrays  **Mode:** Optional practice idea — not marked complete.  **Focus:** Practice indexed traversal and updates.  **Try this:** Find the longest run of equal values.  **Review:** Single-element and empty arrays.### Strings  **Mode:** Optional practice idea — not marked complete.  **Focus:** Explore counting, matching, and normalization.  **Try this:** Compare two normalized strings.  **Review:** Spaces, casing, and character assumptions.### Hash Maps  **Mode:** Optional practice idea — not marked complete.  **Focus:** Practice frequency and lookup problems.  **Try this:** Find the first non-repeating item.  **Review:** No matching item and repeated values.### Stacks & Queues  **Mode:** Optional practice idea — not marked complete.  **Focus:** Compare last-in-first-out and first-in-first-out behavior.  **Try this:** Validate a sequence of brackets.  **Review:** Early closing and unmatched brackets.### Trees & Graphs  **Mode:** Optional practice idea — not marked complete.  **Focus:** Explore traversal on small examples.  **Try this:** Draw and traverse a tiny dependency graph.  **Review:** Cycles and disconnected nodes.### Complexity  **Mode:** Optional practice idea — not marked complete.  **Focus:** Explain how work grows with input size.  **Try this:** Compare a nested scan with a lookup approach.  **Review:** Time and memory trade-offs.</details><details><summary><b>🌐 Web Interface Exploration — choose a practice quest</b></summary>### Semantic HTML  **Mode:** Optional practice idea — not marked complete.  **Focus:** Explore meaningful page structure.  **Try this:** Create a small project showcase page.  **Review:** Headings, labels, and navigation.### Responsive CSS  **Mode:** Optional practice idea — not marked complete.  **Focus:** Practice layouts at different widths.  **Try this:** Build a responsive project-card grid.  **Review:** Narrow screens and long text.### JavaScript Events  **Mode:** Optional practice idea — not marked complete.  **Focus:** Explore user-triggered state changes.  **Try this:** Add a filter to a static list.  **Review:** Keyboard and empty-result behavior.### Forms  **Mode:** Optional practice idea — not marked complete.  **Focus:** Practice clear input and feedback.  **Try this:** Create an event registration form mockup.  **Review:** Labels, validation, and understandable errors.### Loading States  **Mode:** Optional practice idea — not marked complete.  **Focus:** Design asynchronous interaction feedback.  **Try this:** Mock loading, success, and failure screens.  **Review:** Retry behavior and duplicate actions.### Accessibility  **Mode:** Optional practice idea — not marked complete.  **Focus:** Explore usable keyboard interaction.  **Try this:** Review a page without using a mouse.  **Review:** Visible focus and meaningful controls.</details><details><summary><b>⚙️ Backend & API Exploration — choose a practice quest</b></summary>### Request Design  **Mode:** Optional practice idea — not marked complete.  **Focus:** Explore clear inputs and outputs.  **Try this:** Draft a small event API contract.  **Review:** Naming, required fields, and error shapes.### Validation  **Mode:** Optional practice idea — not marked complete.  **Focus:** Practice protecting business rules.  **Try this:** Validate an event date and capacity.  **Review:** Boundary values and inconsistent input.### Persistence  **Mode:** Optional practice idea — not marked complete.  **Focus:** Explore storing and retrieving records.  **Try this:** Sketch an event data model.  **Review:** Relationships and duplicate records.### Pagination  **Mode:** Optional practice idea — not marked complete.  **Focus:** Explore manageable list responses.**Try this:** Design paginated event listings.**Review:** Empty pages and stable ordering.### Error Handling**Mode:** Optional practice idea — not marked complete.**Focus:** Practice useful, consistent failures.**Try this:** Write example validation error responses.**Review:** Avoid exposing internal details.### API Tests**Mode:** Optional practice idea — not marked complete.**Focus:** Explore end-to-end behavior checks.**Try this:** Write test scenarios for create and read actions.**Review:** Success, invalid input, and missing records.</details><details><summary><b>🗃️ Database & Visualization Exploration — choose a practice quest</b></summary>### Schema Design**Mode:** Optional practice idea — not marked complete.**Focus:** Explore entities and relationships.**Try this:** Model events, attendees, and registrations.**Review:** Keys and many-to-many relationships.### SQL Queries**Mode:** Optional practice idea — not marked complete.**Focus:** Practice filtering and aggregation.**Try this:** Summarize registrations by event.**Review:** Null values and empty groups.### Joins**Mode:** Optional practice idea — not marked complete.**Focus:** Explore combining related records.**Try this:** List events with registration counts.**Review:** Records without matching rows.### Transactions**Mode:** Optional practice idea — not marked complete.**Focus:** Investigate all-or-nothing operations.**Try this:** Describe a multi-step registration update.**Review:** Failures partway through the operation.### Charts**Mode:** Optional practice idea — not marked complete.**Focus:** Match visual forms to questions.**Try this:** Sketch a chart for attendance over time.**Review:** Labels, units, and misleading scales.### Data Quality**Mode:** Optional practice idea — not marked complete.**Focus:** Explore checking source data.**Try this:** Write validation rules for imported records.**Review:** Missing values, duplicates, and formats.</details><details><summary><b>🤖 AI & LLM Exploration — choose a practice quest</b></summary>### Prompt Experiments**Mode:** Optional practice idea — not marked complete.**Focus:** Compare explicit task instructions.**Try this:** Test several prompts on a fixed small dataset.**Review:** Record failures as well as successes.### Evaluation**Mode:** Optional practice idea — not marked complete.**Focus:** Explore repeatable quality checks.**Try this:** Create a rubric for an assistant task.**Review:** Consistency, correctness, and uncertainty.### Retrieval**Mode:** Optional practice idea — not marked complete.**Focus:** Explore finding relevant source material.**Try this:** Sketch a document question-answering flow.**Review:** Source relevance and unsupported answers.### Agent Boundaries**Mode:** Optional practice idea — not marked complete.**Focus:** Explore controlled tool access.**Try this:** Design a read-only database assistant.**Review:** Permissions and untrusted content.### Human Review**Mode:** Optional practice idea — not marked complete.**Focus:** Decide when a person should approve actions.**Try this:** Add approval checkpoints to an agent sketch.**Review:** Consequential actions and failure recovery.### Responsible Scope**Mode:** Optional practice idea — not marked complete.**Focus:** Document assumptions and limitations.**Try this:** Write a short limitations section for an AI idea.**Review:** Privacy, bias, and misleading claims.</details><details><summary><b>🛠️ Developer Workflow Exploration — choose a practice quest</b></summary>### Git Commits**Mode:** Optional practice idea — not marked complete.**Focus:** Practice small, understandable changes.**Try this:** Split a feature into logical commits.**Review:** Descriptions that explain intent.### Issue Writing**Mode:** Optional practice idea — not marked complete.**Focus:** Describe reproducible problems.**Try this:** Write a bug report from a local failure.**Review:** Steps, expected behavior, and actual behavior.### Code Review**Mode:** Optional practice idea — not marked complete.**Focus:** Explore constructive technical feedback.**Try this:** Review a small function for clarity.**Review:** Specific, actionable comments.### Documentation**Mode:** Optional practice idea — not marked complete.**Focus:** Explain how a project is used.**Try this:** Write a setup guide for a local tool.**Review:** Prerequisites and reproducibility.### Debugging**Mode:** Optional practice idea — not marked complete.**Focus:** Practice testing a focused hypothesis.**Try this:** Reduce a failing example to a minimal case.**Review:** Evidence rather than guesses.### Communication**Mode:** Optional practice idea — not marked complete.**Focus:** Explain decisions and trade-offs.**Try this:** Give a two-minute project walkthrough.**Review:** Problem, approach, limitations, next step.</details><a id="arcade"></a>## 🎮 Coding ArcadeSmall click-to-reveal challenges. These are learning examples,not a record of contest performance.<details><summary><b>Level 1 — Aliasing</b></summary>```pythona = [1, 2]b = ab.append(3)print(a)```<details><summary>Reveal</summary>```text[1, 2, 3]```Both names refer to the same list.</details></details><details><summary><b>Level 2 — Shallow Copies</b></summary>```pythona = [[1], [2]]b = a.copy()b[0].append(9)print(a)```<details><summary>Reveal</summary>```text[[1, 9], [2]]```The outer list was copied; the nested lists remain shared.</details></details><details><summary><b>Level 3 — A New List</b></summary>```pythona = [1, 2]b = ab = b + [3]print(a)print(b)```<details><summary>Reveal</summary>```text[1, 2][1, 2, 3]```Concatenation creates a new list, and `b` is reassigned.</details></details><details><summary><b>Level 4 — Dictionary Counting</b></summary>```pythoncounts = {}for letter in "code":    counts[letter] = counts.get(letter, 0) + 1print(counts["o"])```<details><summary>Reveal</summary>```text1```The loop increments the count for each letter.</details></details><details><summary><b>Level 5 — Range Boundaries</b></summary>```pythonprint(list(range(2, 8, 2)))```<details><summary>Reveal</summary>```text[2, 4, 6]```The stopping value is excluded.</details></details><a id="options"></a>## ⚙️ Optional Profile ModulesThese modules are templates. Add real evidence before turningthem into public accomplishment claims.<details><summary><b>📌 Featured repository template</b></summary>**Project name:** Add an owned project.**Problem:** Who needs it, and why?**Implementation:** What did I build?**Stack:** Include only technologies actually used.**Evidence:** Add a verified repository or demo link.**Limitations:** What does it not do yet?**Next step:** What would I improve?</details><details><summary><b>🧪 Experiment log template</b></summary>| Field | What to record || :--- | :--- || Question | What am I investigating? || Setup | What did I use? || Observation | What happened? || Interpretation | What does the result suggest? || Limitation | What remains uncertain? || Next experiment | What should I try next? |</details><details><summary><b>🐛 Debugging story template</b></summary>1. Describe the symptom.2. Record the smallest reproduction.3. State the initial hypothesis.4. Explain the evidence.5. Describe the fix.6. Add a regression test.7. Summarize what I learned.</details><details><summary><b>🗓️ Weekly learning journal template</b></summary>- **This week I explored:**- **One problem I solved:**- **One thing I misunderstood:**- **Evidence or code:**- **What I want feedback on:**- **Next week's focus:**</details><details><summary><b>🏆 Achievement module — enable only with evidence</b></summary>No verified achievements have been added.For a future entry, include:- The actual achievement.- The issuing organization.- The date.- A public verification link, if available.- An accurate description of my contribution.</details><details><summary><b>🎓 Certification module — enable only when earned</b></summary>No completed certifications have been added.For a future entry, include:- Exact certification name.- Issuer.- Completion date.- Verification link, if public.- A concise description without inflated proficiency claims.</details><details><summary><b>🤝 Open-source contribution module</b></summary>No completed contributions are claimed here.For a future entry, include:- Repository.- Issue or pull request.- My specific contribution.- Current state: proposed, open, merged, or closed.- What I learned from the review.</details><details><summary><b>🎤 Project walkthrough outline</b></summary>1. Explain the user problem.2. Show the main flow.3. Describe the important technical decision.4. Demonstrate a relevant test.5. Explain a limitation.6. Share the next improvement.</details><details><summary><b>🧭 Collaboration preferences template</b></summary>Topics I'm interested in:- Student software projects.- AI application experiments.- Backend and API learning.- Beginner-friendly open source.- Hackathons.Add availability and contact preferences only if comfortablemaking them public.</details><details><summary><b>📊 Statistics card slot — disabled by default</b></summary>A GitHub username has not been supplied.Optional future additions:- Repository statistics.- Language distribution, with clear context.- Contribution visualizations.Avoid treating activity counts or language percentages asa measurement of engineering ability.</details><details><summary><b>🎨 Visual style switches</b></summary>Choose the style that suits the profile:- **Animated:** Keep the typing header and decorative snake.- **Balanced:** Keep the typing header; remove the snake.- **Minimal:** Remove image tags and retain the text headings.- **Recruiter-friendly:** Keep the introduction and verified projects.- **Learning journal:** Keep the practice paths I actively use.All profile markup is in this README.Animations load from external hosts, not local files.Their availability depends on those hosts.The snake is a credited demo, not my own activity visualization.The former custom robot GIFs are not embedded in this edition.</details><details><summary><b>🔗 Contact link slot — disabled by default</b></summary>Public links can be added after verification:- GitHub username.- LinkedIn.- Portfolio.- LeetCode.- Public email.No private contact details or invented URLs are included.</details><a id="connect"></a>## 🤝 Multiplayer ModeI'm interested in **internships, entry-level software development,AI application projects, student collaboration, and open source**.Public contact and repository links will be added when available.<details><summary><b>🥚 Secret terminal</b></summary>```text$ launch curiosity[OK] Ask questions$ launch learning[OK] Make small experiments$ launch building[OK] Turn ideas into code$ launch improvement[OK] Keep going```These are decorative messages, not live system output.</details>---<p align="center">  <b>Always curious. Always learning. Always building.</b><br>  <sub>Siddhesh Krishnavel · Learning in progress</sub></p><!--PUBLISHING CHECKLIST[ ] Confirm all personal details.[ ] Remove optional paths that do not fit.[ ] Add only repositories I own or accurately attribute.[ ] Mark project status honestly.[ ] Add verified public contact links if desired.[ ] Do not expose credentials or private information.[ ] Preview the profile on mobile and desktop.[ ] Remove animated image tags if a motion-free profile is preferred.[ ] Review whether the full long-form edition is useful for visitors.-->
+from pathlib import Path
+import re
+
+source = Path("/mnt/data/single_file_profile/README.md").read_text()
+text = source
+
+# Add a neon banner without requiring any local image files.
+banner = '''
+<a id="top"></a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:7C3AED,100:00D9FF&amp;height=220&amp;section=header&amp;text=SIDDHESH.exe&amp;fontSize=55&amp;fontColor=FFFFFF&amp;animation=twinkling&amp;fontAli[[1]]gnY=37&amp;desc=SOFTWARE%20%2F%20AI%20%2F%20CURIOSITY&amp;descAlignY=60&amp;descSize=17" width="100%" alt="Siddhesh.exe — neon software and AI banner" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="65" alt="Animated Pikachu pixel mascot" />
+  &nbsp; &nbsp; <b>✦ WELCOME TO MY DEV ARCADE ✦</b> &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="65" alt="Animated Eevee pixel mascot" />
+</p>
+'''
+pos = text.index('<p align="center">')
+text = text[:pos] + banner + text[pos:]
+
+old_nav = re.search(r'<p align="center">\n  <a href="#start">.*?</p>', text, re.S)
+new_nav = '''<p align="center">
+  <a href="#start"><img src="https://img.shields.io/badge/01_PLAYER-7C3AED?style=for-the-badge" alt="Go to about me" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/02_PROJECTS-0891B2?style=for-the-badge" alt="Go to project ideas" /></a>
+  <a href="#paths"><img src="https://img.shields.io/badge/03_SKILL_TREE-059669?style=for-the-badge" alt="Go to learning paths" /></a>
+  <a href="#arcade"><img src="https://img.shields.io/badge/04_ARCADE-DB2777?style=for-the-badge" alt="Go to coding challenges" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/05_CONNECT-D97706?style=for-the-badge" alt="Go to collaboration interests" /></a>
+</p>'''
+text = text[:old_nav.start()] + new_nav + text[old_nav.end():]
+
+menu = '''
+## 🕹️ Choose Your Path
+
+<table>
+<tr>
+<td align="center" width="33%">
+<b>🛠️ THE BUILDER</b><br>
+Software · APIs · Applications<br><br>
+<a href="#projects">Explore project concepts →</a>
+</td>
+<td align="center" width="33%">
+<b>🤖 THE EXPLORER</b><br>
+AI · LLMs · Experiments<br><br>
+<a href="#ai-room">Enter the AI room →</a>
+</td>
+<td align="center" width="33%">
+<b>🧩 THE PROBLEM SOLVER</b><br>
+Python · Java · DSA<br><br>
+<a href="#arcade">Try a challenge →</a>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🎁 Open the welcome chest</b></summary>
+
+### You found the starting kit!
+
+- **Curiosity:** Ask how it works.
+- **Patience:** Read the error before changing the code.
+- **Practice:** Build the smallest useful version.
+- **Honesty:** Show what works and what still needs improvement.
+
+**Choose your next move:** [Meet me](#start) · [View ideas](#projects) · [Try the arcade](#arcade)
+
+</details>
+
+'''
+text = text.replace('<a id="start"></a>', menu + '<a id="start"></a>', 1)
+
+ai_room = '''
+<a id="ai-room"></a>
+
+## 🤖 The AI Exploration Room
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2300&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Ask+better+questions.;Build+small+experiments.;Evaluate+the+results.;Document+the+limitations." width="90%" alt="Animated AI learning motto: ask, experiment, evaluate, document." />
+</p>
+
+<details>
+<summary><b>🚪 Door 1 — Talk to a database</b></summary>
+
+**An idea I'm exploring:** Natural-language database interaction.
+
+Before building, I want to answer:
+- What should the assistant be allowed to access?
+- How should ambiguous requests be clarified?
+- How would I test whether an answer is correct?
+
+[Explore the project concept](#projects)
+
+</details>
+
+<details>
+<summary><b>🚪 Door 2 — Build a chat experience</b></summary>
+
+**An idea I'm exploring:** Astra Chat UI with a backend.
+
+A useful interface should make its state understandable:
+- Waiting for input.
+- Loading a response.
+- Displaying a result.
+- Explaining a failure.
+
+[Explore Astra](#projects)
+
+</details>
+
+<details>
+<summary><b>🚪 Door 3 — The evidence room</b></summary>
+
+A polished demo is a starting point, not proof of reliability.
+
+For an experiment, I want to record:
+- What I tested.
+- What worked.
+- What failed.
+- What remains uncertain.
+
+</details>
+
+'''
+text = text.replace('<a id="arcade"></a>', ai_room + '<a id="arcade"></a>', 1)
+
+# Decorative separators and easy return links.
+for anchor in ["projects", "paths", "arcade", "options", "connect"]:
+    text = text.replace(
+        f'<a id="{anchor}"></a>',
+        '<p align="center">✦ ━━━━━━━━━━━ ◈ ━━━━━━━━━━━ ✦</p>\n\n'
+        f'<a id="{anchor}"></a>', 1
+    )
+
+text += '''
+<p align="center">
+  <a href="#top"><img src="https://img.shields.io/badge/↑_BACK_TO_SPAWN-7C3AED?style=for-the-badge" alt="Back to the top of the profile" /></a>
+</p>
+
+<details>
+<summary><b>🎨 Artwork credits & motion options</b></summary>
+
+- Animated pixel mascots: PokéAPI sprite repository; Pokémon characters belong to their respective owners.
+- Decorative snake: Platane/snk demonstration, not my contribution history.
+- Animated text: DenverCoder1/readme-typing-svg.
+- Banner: kyechan99/capsule-render.
+- Navigation badges: Shields.io.
+- Images load from external hosts and may become unavailable.
+- For less motion, remove the animated image tags; navigation and panels still work.
+- All profile markup is in this file; no assets directory or workflow is required.
+- Animations are decorative images, not playable games or live progress indicators.
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:7C3AED,100:00D9FF&amp;height=110&amp;section=footer" width="100%" alt="Purple and cyan decorative footer" />
+'''
+
+# Replace outdated visual-switch text from the previous edition.
+text = text.replace("Keep the typing header and decorative snake.",
+                    "Keep the neon banner, typing headers, pixel mascots, and snake.")
+text = text.replace("Keep the typing header; remove the snake.",
+                    "Keep one typing header; remove the mascots and snake.")
+text = text.replace("The former custom robot GIFs are not embedded in this edition.",
+                    "Pixel mascots replace the earlier locally stored robot GIFs.")
+
+# Keep the new visual features; remove one optional learning group for space.
+group = "<details>\n<summary><b>🛠️ Developer Workflow Exploration"
+start = text.find(group)
+if start >= 0:
+    next_section = text.find('<a id="ai-room"></a>', start)
+    # The group ends just before the AI room and its surrounding whitespace.
+    segment = text[start:next_section]
+    end = segment.rfind("</details>") + len("</details>")
+    text = text[:start] + text[start+end:]
+
+lines = text.splitlines()
+
+# Compact Markdown paragraph spacing, preserving explicit visual line breaks.
+while len(lines) > 1000:
+    candidate = next(
+        (i for i in range(1, len(lines)-1)
+         if not lines[i] and lines[i+1].startswith(
+             ("**Try this:**", "**Review:**", "**Focus:**", "**Mode:**"))),
+        None
+    )
+    if candidate is not None:
+        lines[candidate-1] = lines[candidate-1].rstrip() + "  "
+        lines.pop(candidate)
+        continue
+    # Blank lines immediately before closing HTML panels are not needed.
+    candidate = next(
+        (i for i in range(1, len(lines)-1)
+         if not lines[i] and lines[i+1] == "</details>"),
+        None
+    )
+    if candidate is None:
+        raise RuntimeError("Unable to compact safely to 1,000 lines.")
+    lines.pop(candidate)
+
+# If necessary, wrap long prose lines rather than adding empty filler.
+while len(lines) < 1000:
+    in_code = False
+    chosen = None
+    for i, line in enumerate(lines):
+        if line.startswith("```"):
+            in_code = not in_code
+            continue
+        if (not in_code and len(line) > 85 and
+            not line.startswith(("<", "|", "#", "-", "[", " ", "!", ">")) and
+            "http" not in line):
+            cut = line.rfind(" ", 30, 78)
+            if cut > 0:
+                chosen = (i, cut)
+                break
+    if chosen is None:
+        raise RuntimeError("No suitable prose line available for wrapping.")
+    i, cut = chosen
+    lines[i:i+1] = [lines[i][:cut], lines[i][cut+1:]]
+
+result = "\n".join(lines) + "\n"
+assert len(result.splitlines()) == 1000
+assert result.count("<details") == result.count("</details>")
+assert result.count("```") % 2 == 0
+assert "./assets/" not in result
+assert all(f'id="{a}"' in result for a in
+           ["top", "start", "projects", "paths", "arcade", "ai-room", "options", "connect"])
+
+folder = Path("/mnt/data/siddhesh_neon_arcade")
+folder.mkdir(exist_ok=True)
+file = folder / "README.md"
+file.write_text(result, encoding="utf-8")
+
+print("Created: README.md")
+print("Exactly 1,000 lines")
+print("Single file • No local assets • No workflow files")
+print("Added: neon banner, animated mascots, badge navigation, choice panels, and AI exploration rooms")
