@@ -1,235 +1,56 @@
 from pathlib import Path
-readme = r'''<div align="center">
-
-# Hey, I'm Siddhesh 👋
-
-### CSE Student · Aspiring Software Developer · AI Enthusiast
-
-**Turning curiosity into code, one problem and one project at a time.**
-
-<p>
-  <img src="https://img.shields.io/badge/Software_Development-0D1117?style=for-the-badge&amp;logoColor=white" alt="Software Development" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge&amp;logoColor=white" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Learn_•_Build_•_Improve-0891B2?style=for-the-badge" alt="Learn, Build, Improve" />
-</p>
-
-[About](#-about-me) · [Learning](#-my-learning-toolkit) · [Projects](#-project-notebook) · [Focus](#-current-focus) · [Connect](#-lets-connect)
-
----
-
-**Always curious. Always learning. Always building.**
-
-</div>
-
-## 👨‍💻 About me
-
-I'm **Siddhesh Krishnavel**, a Computer Science and Engineering student at **Sri Sairam Institute of Technology**.
-
-I’m interested in software development, artificial intelligence, and building practical applications. My learning process combines solving coding problems, exploring developer tools, and developing projects that connect ideas with real-world use cases.
-
-- 🎓 **Education:** B.E. in Computer Science and Engineering
-- 📚 **Academic year:** 4th year · CSE – B
-- 🗓️ **Expected graduation:** 2027
-- 🧩 **Practice:** Python, Java, and data structures & algorithms
-- 🌱 **Exploring:** Backend development, full-stack applications, and generative AI
-- 🎯 **Career direction:** Software development, AI, and fresher opportunities
-- 🤝 **Interested in:** Internships, collaborative projects, and open-source learning
-
-> I want to build beyond tutorials: understand the problem, write clearer code, and improve through testing and iteration.
-
-## 🧰 My learning toolkit
-
-*These are areas of learning and project exploration—not proficiency ratings.*
-
-<div align="center">
-
-### Programming & problem solving
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
-
-### Web & backend exploration
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-
-</div>
-
-<details>
-<summary><b>🛠️ Expand my tools & practice platforms</b></summary>
-
-<br>
-
-| Area | Tools & platforms |
-| :--- | :--- |
-| Version control | Git · GitHub |
-| Development environment | VS Code |
-| Coding practice | SkillRack · LeetCode · GeeksforGeeks |
-| Learning habits | Problem solving · Debugging · Project exploration |
-
-</details>
-
-<details>
-<summary><b>🧠 Expand my technical interests</b></summary>
-
-<br>
-
-- **AI & generative AI:** LLMs, AI agents, and Natural Language Processing
-- **Application development:** Full-stack web apps, backends, and APIs
-- **Data:** Database interaction, visualization, and Big Data Analytics
-- **Foundations:** Data structures, algorithms, and cleaner, tested code
-- **Applied exploration:** Sign language recognition
-- **Community:** Open-source collaboration
-
-</details>
-
-## 🚀 Project notebook
-
-*A space for projects and ideas I’m exploring. Entries describe intended scope; completed implementations and repository links are not yet listed.*
-
-<details open>
-<summary><b>💬 Astra Chat UI with Backend</b> — Conversational AI interface</summary>
-
-<br>
-
-**Goal:** Build a chat-style web interface connected to an Azure AI / OpenAI-compatible endpoint.
-
-**Proposed stack:** Python · Flask · HTML · CSS · JavaScript
-
-**Areas to explore**
-- A clear, usable conversation interface
-- Backend handling of model requests and responses
-- Safe configuration using environment variables
-
-**Security principle:** Keep API keys on the backend—never in frontend code or committed files.
-
-**Status:** Scope discussed; implementation status to be confirmed.
-
-</details>
-
-<details>
-<summary><b>🎟️ EventEase API</b> — Event-related backend capstone</summary>
-
-<br>
-
-**Goal:** Explore an event-related API with backend business logic and persistent data.
-
-**Areas to explore**
-- API design and request validation
-- Organizing backend business logic
-- Data persistence and error handling
-
-**Stack:** To be confirmed from the actual implementation.
-
-**Status:** Capstone concept discussed; implementation status to be confirmed.
-
-</details>
-
-<details>
-<summary><b>📊 Intelligent LLM Agents</b> — Database interaction & visualization</summary>
-
-<br>
-
-**Goal:** Explore agents that interact with databases and produce useful visualizations.
-
-**Areas to explore**
-- Natural-language interaction with structured data
-- Agent-assisted database workflows
-- Presenting query results visually
-
-**Status:** Project / hackathon idea; completion not confirmed.
-
-</details>
-
-<details>
-<summary><b>🤟 Sign Language Recognition</b> — Applied AI exploration</summary>
-
-<br>
-
-**Goal:** Explore a sign language recognition application with a frontend, backend, and a defined development flow.
-
-**Areas to explore**
-- Recognition workflows
-- Connecting model outputs to an application interface
-- Structuring an end-to-end project
-
-**Status:** Project idea discussed; completion not confirmed.
-
-</details>
-
-<!--
-Before publishing project repository links:
-1. Confirm ownership.
-2. Confirm each project's real implementation status.
-3. Replace the provisional status with "Idea", "In progress", or "Completed".
-4. Add only technologies actually used.
-The external full-stack patch exercise is intentionally not listed as an owned project.
--->
-
-## 🎯 Current focus
-
-| Track | What I’m working toward |
-| :--- | :--- |
-| 🧩 Problem solving | Stronger Python, Java, and DSA fundamentals |
-| ⚙️ Backend development | Better understanding of APIs, databases, and application logic |
-| 🤖 AI exploration | Understanding LLMs, agents, and practical AI applications |
-| 🧪 Code quality | Cleaner, tested code and more confident debugging |
-| 💼 Career preparation | Campus placements and fresher software opportunities |
-
-<details>
-<summary><b>📚 Open my academic learning map</b></summary>
-
-<br>
-
-**Big Data Analytics**  
-Hadoop · HDFS · MapReduce · Hive · HQL · Stream processing
-
-**Natural Language Processing**  
-N-grams · Perplexity · POS tagging · HMMs · Word embeddings · Semantic analysis
-
-**Machine Learning**  
-Candidate Elimination · Gradient descent · Backpropagation · Decision trees · Naive Bayes · EM algorithm
-
-**Cybersecurity & Cryptography**  
-Hill cipher · AES · DES · RSA · Kerberos · X.509
-
-*Academic topics explored—not claims of professional specialization.*
-
-</details>
-
-## 🤝 Let’s connect
-
-I’m interested in conversations about **software development, practical AI, coding practice, and collaborative learning**.
-
-Have an idea we could learn from together? Let’s build something useful.
-
-<!--
-Add verified public links below when ready. Remove any unused entries.
-
-- [LinkedIn](YOUR_LINKEDIN_URL)
-- [Portfolio](YOUR_PORTFOLIO_URL)
-- [LeetCode](YOUR_LEETCODE_URL)
-- [Email](mailto:YOUR_PUBLIC_EMAIL)
-
-Only publish an email address you want publicly visible.
-GitHub username was not provided, so personalized stats and activity cards
-have intentionally been omitted.
--->
-
----
-
-<div align="center">
-
-### 💡 Curiosity → Learning → Building → Improving
-
-**Thanks for stopping by!**
-
-<sub>Siddhesh Krishnavel · Code with curiosity. Build with purpose.</sub>
-
-</div>
-'''
-Path('/mnt/data/README.md').write_text(readme, encoding='utf-8')
-print("README.md created")
+html = '''<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Siddhesh — Developer Profile</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+:root{--bg:#090d16;--card:#121927;--ink:#eef3ff;--muted:#96a4bd;--line:#273146;--accent:#b5a1ff;--mint:#85e9c7}
+body.light{--bg:#f4f5fc;--card:#fff;--ink:#1a2035;--muted:#59657d;--line:#d9ddec;--accent:#7050ce;--mint:#147c65}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:100px}body{margin:0;background:var(--bg);color:var(--ink);font-family:'DM Sans',sans-serif;transition:background .25s,color .25s}
+button,a{-webkit-tap-highlight-color:transparent}button{font:inherit;cursor:pointer}a{color:inherit;text-decoration:none}button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--mint);outline-offset:5px}
+.wrap{max-width:1160px;margin:auto;padding:0 28px}header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}nav{height:84px;display:flex;align-items:center;gap:32px}.logo{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:24px;letter-spacing:-1px}.logo span{color:var(--accent)}.links{display:flex;gap:27px;margin-left:auto;font-size:14px;color:var(--muted)}.links a:hover{color:var(--ink)}.icon{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:50%;width:42px;height:42px;font-size:20px}
+.hero{display:grid;grid-template-columns:1.4fr 1fr;gap:60px;align-items:center;padding:86px 0 76px}.eyebrow{display:inline-flex;align-items:center;gap:9px;color:var(--mint);font-size:12px;letter-spacing:1.7px;text-transform:uppercase}.dot{width:7px;height:7px;background:var(--mint);border-radius:50%;box-shadow:0 0 18px var(--mint)}h1,h2,h3{font-family:'Space Grotesk',sans-serif}h1{font-size:clamp(48px,7vw,82px);line-height:1.04;letter-spacing:-4px;margin:27px 0 23px}h1 span{color:var(--accent)}.role{font-size:18px;line-height:1.7}.muted{color:var(--muted);line-height:1.8}.hero p{max-width:530px}.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:29px}.btn{display:inline-flex;align-items:center;justify-content:center;gap:20px;padding:14px 22px;border-radius:12px;border:1px solid var(--line);background:var(--card);color:var(--ink);font-weight:600;font-size:14px;transition:transform .2s}.btn:hover{transform:translateY(-3px)}.primary{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+.portrait{position:relative;min-height:345px;border:1px solid var(--line);border-radius:32px;background:radial-gradient(ellipse at top right,#7562ba44,transparent 75%),var(--card);padding:28px;display:flex;flex-direction:column;justify-content:space-between;overflow:hidden}.portrait:before{content:"";position:absolute;border:1px solid #9180c933;border-radius:50%;width:350px;height:350px;top:0;right:-120px}.cardtop{display:flex;justify-content:space-between;font-size:11px;letter-spacing:2px;color:var(--muted)}.monogram{font-family:'Space Grotesk',sans-serif;font-size:130px;font-weight:700;letter-spacing:-12px;color:var(--accent);text-align:center;z-index:1}.portraitfoot{display:flex;align-items:center;justify-content:space-between;font-size:13px}.spark{color:var(--mint);font-size:34px}.ribbon{display:flex;gap:12px;flex-wrap:wrap;padding-bottom:52px}.pill{border:1px solid var(--line);border-radius:99px;padding:8px 15px;font-size:12px;color:var(--muted)}
+section{padding:40px 0 55px;border-top:1px solid var(--line)}.label{font-size:11px;letter-spacing:2px;color:var(--accent);text-transform:uppercase;font-weight:700}h2{font-size:34px;letter-spacing:-1px;margin:12px 0 20px}.about{display:grid;grid-template-columns:1.2fr 1fr;gap:60px}.facts{display:grid;grid-template-columns:1fr 1fr;gap:12px}.fact{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px}.fact small{display:block;color:var(--muted);font-size:11px;margin-bottom:10px}.fact strong{font-size:15px}.sectionhead{display:flex;justify-content:space-between;align-items:center;gap:20px}.filters{display:flex;gap:7px;flex-wrap:wrap}.filter{background:transparent;color:var(--muted);border:1px solid var(--line);padding:9px 16px;border-radius:99px;font-size:12px}.filter.active{background:var(--accent);color:var(--bg);border-color:var(--accent)}.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}.project{text-align:left;background:var(--card);border:1px solid var(--line);border-radius:22px;padding:25px;color:var(--ink);transition:transform .2s,border-color .2s;display:block;width:100%}.project:hover{transform:translateY(-5px);border-color:var(--accent)}.projecttop{display:flex;justify-content:space-between;align-items:center}.symbol{width:47px;height:47px;border-radius:14px;background:#9a83e820;color:var(--accent);display:grid;place-items:center;font-size:25px}.status{font-size:10px;color:var(--muted);border:1px solid var(--line);border-radius:30px;padding:6px 10px}.project h3{font-size:22px;margin:25px 0 8px}.project p{color:var(--muted);font-size:14px;line-height:1.7;min-height:47px}.projectbottom{border-top:1px solid var(--line);padding-top:16px;margin-top:20px;display:flex;justify-content:space-between;color:var(--accent);font-size:12px}.note{font-size:12px;color:var(--muted);margin:18px 0;line-height:1.7}
+.learn{display:grid;grid-template-columns:1fr 1fr;gap:30px}.skills{display:flex;flex-wrap:wrap;gap:10px}.skill{border:1px solid var(--line);padding:14px 19px;border-radius:12px;background:var(--card);font-size:14px}.skill:hover{border-color:var(--mint);color:var(--mint)}details{border:1px solid var(--line);border-radius:15px;margin-bottom:12px;background:var(--card)}summary{cursor:pointer;list-style:none;padding:20px;font-size:14px;display:flex;justify-content:space-between}summary:after{content:"+";color:var(--accent)}details[open] summary:after{content:"−"}details p{padding:0 20px 18px;margin:0;font-size:14px;color:var(--muted);line-height:1.8}.connect{text-align:center;background:radial-gradient(ellipse at bottom,#8370c322,transparent 65%);padding:64px 25px;border:1px solid var(--line);border-radius:25px;margin:10px 0 55px}.connect h2{font-size:40px}.connect p{max-width:590px;margin:0 auto 23px}.interest{margin:20px auto 0;color:var(--mint);font-size:14px;min-height:24px}.connect .filters{justify-content:center}footer{border-top:1px solid var(--line);padding:25px 0 35px;display:flex;justify-content:space-between;font-size:12px;color:var(--muted)}
+dialog{background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:24px;max-width:560px;width:calc(100% - 35px);padding:30px}dialog::backdrop{background:#030611bd;backdrop-filter:blur(7px)}dialog h2{padding-right:30px}dialog p{line-height:1.8;color:var(--muted)}.close{position:absolute;right:18px;top:18px}.modalbadge{color:var(--mint);font-size:12px}.hidden{display:none}
+@media(max-width:760px){.hero{grid-template-columns:1fr;padding-top:48px;gap:35px}.portrait{min-height:270px}.monogram{font-size:105px}.about,.learn{grid-template-columns:1fr;gap:25px}.sectionhead{align-items:flex-start;flex-direction:column;margin-bottom:25px}.grid{grid-template-columns:1fr}.links{gap:15px}.links a:nth-child(2){display:none}nav{gap:16px}.wrap{padding:0 21px}h1{letter-spacing:-2px}footer{gap:20px;line-height:1.8}.connect h2{font-size:32px}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+</style></head>
+<body>
+<header><nav class="wrap"><a class="logo" href="#home">siddhesh<span>.</span></a><div class="links"><a href="#about">About</a><a href="#projects">Projects</a><a href="#learning">Learning</a></div><button class="icon" id="theme" aria-label="Switch to light theme">☼</button></nav></header>
+<main class="wrap" id="home">
+<div class="hero"><div><div class="eyebrow"><span class="dot"></span> Curious mind. Builder mindset.</div><h1>Hi, I’m<br><span>Siddhesh.</span></h1><div class="role">CSE Student · Aspiring Software Developer<br>AI Enthusiast</div><p class="muted">Exploring the space between an interesting idea and a useful application. Learning by solving, experimenting, and building.</p><div class="actions"><a class="btn primary" href="#projects">Explore my ideas <span>↗</span></a><a class="btn" href="#connect">Let’s connect <span>↗</span></a></div></div><div class="portrait"><div class="cardtop"><span>THE DEVELOPER NOTEBOOK</span><span>01 / SK</span></div><div class="monogram">SK<span style="color:var(--mint)">.</span></div><div class="portraitfoot"><div>Siddhesh Krishnavel<br><span class="muted">Always a work in progress.</span></div><span class="spark">✳</span></div></div></div>
+<div class="ribbon"><span class="pill">✦ Software development</span><span class="pill">✦ Artificial intelligence</span><span class="pill">✦ Problem solving</span><span class="pill">✦ Open-source curiosity</span></div>
+<section id="about"><div class="about"><div><div class="label">01 / A little about me</div><h2>Curiosity is my starting point.</h2><p class="muted">I’m a Computer Science and Engineering student at <strong style="color:var(--ink)">Sri Sairam Institute of Technology</strong>. I’m interested in building practical software, understanding AI, and strengthening my development fundamentals.</p><p class="muted">My goal: move beyond tutorials, write cleaner and tested code, and keep improving through projects and problem solving.</p></div><div class="facts"><div class="fact"><small>DEGREE</small><strong>B.E. / CSE</strong></div><div class="fact"><small>ACADEMIC YEAR</small><strong>4th year · CSE – B</strong></div><div class="fact"><small>EXPECTED GRADUATION</small><strong>2027</strong></div><div class="fact"><small>CAREER DIRECTION</small><strong>Software + AI</strong></div></div></div></section>
+<section id="projects"><div class="sectionhead"><div><div class="label">02 / Project notebook</div><h2>Ideas worth exploring.</h2></div><div class="filters" aria-label="Filter projects"><button class="filter active" data-filter="all" aria-pressed="true">All ideas</button><button class="filter" data-filter="ai" aria-pressed="false">AI</button><button class="filter" data-filter="backend" aria-pressed="false">Backend</button></div></div><div class="grid">
+<button class="project" data-categories="ai backend" data-id="astra"><div class="projecttop"><span class="symbol">✧</span><span class="status">Scope discussed</span></div><h3>Astra Chat UI</h3><p>A conversational interface connecting a web frontend to an AI-powered backend.</p><div class="projectbottom"><span>Python · Flask · Web</span><span>Explore concept ↗</span></div></button>
+<button class="project" data-categories="backend" data-id="event"><div class="projecttop"><span class="symbol">▦</span><span class="status">Capstone concept</span></div><h3>EventEase API</h3><p>Exploring event-related business logic, API design, and persistent data.</p><div class="projectbottom"><span>APIs · Backend · Data</span><span>Explore concept ↗</span></div></button>
+<button class="project" data-categories="ai" data-id="agents"><div class="projecttop"><span class="symbol">⌘</span><span class="status">Project idea</span></div><h3>Intelligent LLM Agents</h3><p>Exploring natural-language database interaction and useful visualizations.</p><div class="projectbottom"><span>LLMs · Databases · Visualization</span><span>Explore concept ↗</span></div></button>
+<button class="project" data-categories="ai" data-id="sign"><div class="projecttop"><span class="symbol">≈</span><span class="status">Project idea</span></div><h3>Sign Language Recognition</h3><p>An applied AI idea connecting recognition workflows with an application interface.</p><div class="projectbottom"><span>Applied AI · Frontend · Backend</span><span>Explore concept ↗</span></div></button>
+</div><p class="note">Notebook entries describe discussed goals, not verified completed projects. Implementation status and owned repository links are still to be confirmed.</p></section>
+<section id="learning"><div class="label">03 / Learning in public</div><h2>A toolkit that keeps growing.</h2><div class="learn"><div><p class="muted">Practicing Python and Java while exploring the tools behind practical web applications.</p><div class="skills"><span class="skill">Python</span><span class="skill">Java</span><span class="skill">HTML</span><span class="skill">CSS</span><span class="skill">JavaScript</span><span class="skill">Flask</span><span class="skill">MySQL</span><span class="skill">Git / GitHub</span></div><p class="note">Learning and exploration areas—not proficiency ratings.</p></div><div><details open><summary>Problem solving & preparation</summary><p>Python and Java practice, data structures and algorithms, debugging, and placement preparation. Practice platforms include SkillRack, LeetCode, and GeeksforGeeks.</p></details><details><summary>AI & data interests</summary><p>Generative AI, LLM agents, Natural Language Processing, database interaction, visualization, and Big Data Analytics.</p></details><details><summary>What I want to improve</summary><p>Building beyond tutorials, writing cleaner and tested code, strengthening fundamentals, and communicating technical ideas more clearly.</p></details></div></div></section>
+<div class="connect" id="connect"><div class="label">04 / Good ideas start with a conversation</div><h2>Let’s learn. Let’s build.</h2><p class="muted">Interested in internships, fresher opportunities, collaborative projects, and open-source learning.</p><div class="filters" aria-label="Explore collaboration interests"><button class="filter topic" data-topic="software">Software development</button><button class="filter topic" data-topic="ai">Practical AI</button><button class="filter topic" data-topic="learning">Learn together</button></div><div class="interest" id="interest" aria-live="polite">Pick an interest to explore a conversation starter.</div><p class="note" style="margin:22px auto 0">Public contact and profile links haven’t been added yet.</p></div>
+<footer><span>© Siddhesh Krishnavel</span><a href="#home">Always curious. Always learning. Always building. ↑</a></footer>
+</main>
+<dialog id="projectDialog" aria-labelledby="modalTitle"><button class="icon close" aria-label="Close project details">×</button><div class="label">Project notebook</div><h2 id="modalTitle"></h2><p id="modalBody"></p><p id="modalStack"></p><div class="modalbadge" id="modalStatus"></div><p class="note">A repository link will be added after ownership and implementation details are confirmed.</p></dialog>
+<script>
+const theme=document.getElementById('theme');
+theme.addEventListener('click',()=>{const light=document.body.classList.toggle('light');theme.textContent=light?'☾':'☼';theme.setAttribute('aria-label',light?'Switch to dark theme':'Switch to light theme');});
+document.querySelectorAll('[data-filter]').forEach(btn=>btn.addEventListener('click',()=>{document.querySelectorAll('[data-filter]').forEach(b=>{b.classList.remove('active');b.setAttribute('aria-pressed','false')});btn.classList.add('active');btn.setAttribute('aria-pressed','true');document.querySelectorAll('.project').forEach(p=>{p.hidden=btn.dataset.filter!=='all'&&!p.dataset.categories.split(' ').includes(btn.dataset.filter);p.classList.toggle('hidden',p.hidden)});}));
+const projects={
+astra:{title:'Astra Chat UI',body:'Goal: build a chat-style web interface using an Azure AI / OpenAI-compatible endpoint. Explore conversation UI, backend request handling, and safe configuration. API keys must stay on the backend in environment variables, never in frontend code or committed files.',stack:'Proposed stack: Python, Flask, HTML, CSS, JavaScript.',status:'Scope discussed · Implementation status unconfirmed'},
+event:{title:'EventEase API',body:'Goal: explore an event-related backend capstone involving business logic and data persistence. Potential learning areas include API design, validation, and error handling.',stack:'Exact technologies and implementation details still need confirmation.',status:'Capstone concept · Implementation status unconfirmed'},
+agents:{title:'Intelligent LLM Agents',body:'Goal: explore agents that interact with databases and produce visualizations. A project or hackathon idea centered on natural-language interaction with structured data and presenting query results visually.',stack:'Exploration areas: LLM agents, databases, visualization.',status:'Project / hackathon idea · Completion unconfirmed'},
+sign:{title:'Sign Language Recognition',body:'Goal: explore a sign language recognition application with a frontend, backend, and a defined development flow. Connect recognition outputs to a usable application interface.',stack:'Technology choices and model implementation are not yet confirmed.',status:'Project idea · Completion unconfirmed'}};
+const dialog=document.getElementById('projectDialog');
+document.querySelectorAll('.project').forEach(p=>p.addEventListener('click',()=>{const x=projects[p.dataset.id];document.getElementById('modalTitle').textContent=x.title;document.getElementById('modalBody').textContent=x.body;document.getElementById('modalStack').textContent=x.stack;document.getElementById('modalStatus').textContent=x.status;dialog.showModal()}));
+document.querySelector('.close').addEventListener('click',()=>dialog.close());
+dialog.addEventListener('click',e=>{const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close()});
+const topics={software:'Conversation starter: What practical application should we build next?',ai:'Conversation starter: Where could an AI agent make a workflow simpler?',learning:'Conversation starter: Want to work through a coding problem together?'};
+document.querySelectorAll('.topic').forEach(b=>{b.setAttribute('aria-pressed','false');b.addEventListener('click',()=>{document.querySelectorAll('.topic').forEach(x=>{x.classList.remove('active');x.setAttribute('aria-pressed','false')});b.classList.add('active');b.setAttribute('aria-pressed','true');document.getElementById('interest').textContent=topics[b.dataset.topic]})});
+</script>
+</body></html>'''
+Path('/mnt/data/Siddhesh_Profile.html').write_text(html,encoding='utf-8')
